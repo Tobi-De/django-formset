@@ -12,6 +12,7 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "rootDir": "./",
+    "outDir": "./client/build/",
     "declaration": true,
     "declarationMap": true,
     "incremental": true
